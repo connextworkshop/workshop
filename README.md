@@ -1,0 +1,1 @@
+WorkshopToken deployed to Ethereum and Optimism Göerli at 0x02E82fB078893EC64BC57e55Fe34f6669D8104BC
