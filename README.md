@@ -1,1 +1,9 @@
-WorkshopToken deployed to Ethereum and Optimism Göerli at 0x02E82fB078893EC64BC57e55Fe34f6669D8104BC
+# Workshop Connext - Curso de Infra - Solow
+
+### Link útiles
+
+-   [Documentación oficial de Connext](https://docs.connext.network/concepts/readme)
+-   [Faucet de testnets](https://coinbase.com/faucets)
+    -   Solo pide descargarse Coinbase Wallet
+-   [Testnet Bridge de Connext](https://testnet.bridge.connext.network/)
+-   [Implementación de xERC20 y xERC20Lockbox como estándar](https://github.com/defi-wonderland/xTokens/)
